@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LatihanRecyclerView</string>
+    
+    <string-array name="data_nama_team">
+        <item>Persib</item>
+        <item>Persija</item>
+        <item>Arema</item>
+        <item>Persebaya</item>
+        <item>Bali </item>
+        <item>PSIS Semarang</item>
+        <item>PSM Makassar</item>
+        <item>PSS Sleman</item>
+        <item>Persipura Jayapura</item>
+        <item>Persik Kediri</item>
+        <item>Persis Solo</item>
+    </string-array>
+    <string-array name="data_deskripsi_team">
+        <item>Persatuan Sepakbola Indonesia Bandung, biasa disebut Persib Bandung, atau hanya Persib, adalah klub sepak bola profesional yang berbasis di Bandung, Jawa Barat, yang berkompetisi di Liga 1, kasta tertinggi sepak bola Indonesia.</item>
+        <item>Persatuan Sepakbola Indonesia Jakarta, adalah klub sepak bola profesional yang berbasis di ibu kota Indonesia Jakarta. Persija Jakarta merupakan salah satu klub sepak bola tersukses di Indonesia dengan 2 gelar Liga Indonesia dan 9 gelar Perserikatan.</item>
+        <item>Arema Football Club adalah sebuah klub sepak bola profesional Indonesia yang berbasis di Malang, provinsi Jawa Timur. Klub bersaing di Liga 1, papan atas Sepak Bola di Indonesia. Julukan Arema adalah "Singo Edan".</item>
+        <item>Persebaya Surabaya atau hanya Persebaya adalah tim sepak bola profesional Indonesia yang berbasis di Surabaya, Jawa Timur. Ini bermain di Liga 1.</item>
+        <item>Bali United Football Club adalah klub sepak bola profesional yang berbasis di Gianyar, Bali, Indonesia. Klub ini berkompetisi di Liga 1, kasta tertinggi sepak bola Indonesia.</item>
+        <item>PSIS adalah klub sepak bola Indonesia yang berbasis di Semarang, Jawa Tengah. Homebase tim berada di Stadion Jatidiri Semarang. Mereka bersaing di Liga 1.</item>
+        <item>Persatuan Sepakbola Makassar atau lebih dikenal dengan singkatan PSM adalah sebuah klub sepak bola profesional Indonesia yang berbasis di Makassar, Sulawesi Selatan. PSM didirikan pada tahun 1915 sebagai Makassar Voetbal Bond, menjadikannya klub tertua yang berlaga di Liga 1</item>
+        <item>Perserikatan Sepakbola Sleman, atau lebih dikenal dengan singkatan PSS, adalah sebuah klub sepak bola profesional yang berbasis di Kabupaten Sleman, Daerah Istimewa Yogyakarta, Indonesia. Klub ini berkompetisi di Liga 1, kasta tertinggi sepak bola Indonesia, setelah memenangkan promosi dari Liga 2 pada 2018.</item>
+        <item>Persatuan Sepakbola Indonesia Jayapura, atau Persipura, adalah sebuah klub sepak bola Indonesia yang berbasis di Jayapura, Papua. Klub ini didirikan pada tahun 1963 dan saat ini bersaing di Liga 2. Persipura memainkan pertandingan kandang mereka di Stadion Mandala.</item>
+        <item>Persatuan Sepak Bola Indonesia Kediri atau Persatuan Sepak Bola Indonesia Kediri adalah sebuah klub sepak bola Indonesia yang berbasis di Kediri, Jawa Timur. Tim yang memiliki julukan Macan Putih ini bermarkas di Stadion Brawijaya. Persik Kediri mulai bermain di Divisi Utama Liga Indonesia pada tahun 2003.</item>
+        <item>Persatuan Sepakbola Indonesia Surakarta, adalah sebuah klub sepak bola Indonesia yang berbasis di Surakarta, Jawa Tengah, Indonesia. Itu ditemukan pada 8 November 1923, sebagai Vorstenlandschen Voetbal Bond. Pada tahun 1935, secara resmi berganti nama menjadi Persis.</item>
+    </string-array>
+    <string-array name="data_logo_team">
+        <item>@drawable/persib</item>
+        <item>@drawable/persija</item>
+        <item>@drawable/arema</item>
+        <item>@drawable/persebaya</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/persis</item>
+        <item>@drawable/psm</item>
+        <item>@drawable/pss</item>
+        <item>@drawable/persipura</item>
+        <item>@drawable/persik</item>
+        <item>@drawable/psis</item>
+
+    </string-array>
+</resources>
